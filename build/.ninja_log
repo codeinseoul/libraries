@@ -1,0 +1,6 @@
+# ninja log v5
+25	98	1688695187458429100	src/CMakeFiles/libraries.dir/main.cc.o	dbbc64dd7b3cedae
+19	257	1688695187611936600	lib/message/CMakeFiles/message.dir/message.cc.o	ae2205fbca0901f5
+317	456	1688695187821394700	lib/message/libmessage.a	7c6a75bb4514cfc9
+22	667	1688695188020938500	src/CMakeFiles/libraries.dir/api/message_api.cc.o	2d3c145796a3e99f
+682	1088	1688695188446553800	src/libraries	b10b79775cea9d4d
